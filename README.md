@@ -85,7 +85,7 @@ python3 -m build
 ```
 in the root directory of this repository.
 
-It will automatically generate a ```dist```folder with the contents ```pyVME-X.X.X-py3-none-any.whl``` and ```pyVME-1.0.0.tar.gz```.
+It will automatically generate a ```dist```folder with the contents ```pyVME-X.X.X-py3-none-any.whl``` and ```pyVME-X.X.X.tar.gz```.
 
 You can install the build package by running 
 ```
