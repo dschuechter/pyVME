@@ -15,7 +15,7 @@ The main functionality comes from a shared object (.so) that ships as a binary b
 This package needs to be run on a Linux 64bit machine with python >= 3.9 installed
 
 ## Installation
-This package is available via [```pipy```](https://pypi.org) and can be simply installed by running:
+This package is available via [```pypi```](https://pypi.org) and can be simply installed by running:
 
     pip install pyVME
 
