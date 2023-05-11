@@ -20,8 +20,8 @@ This package is available via [```pypi```](https://pypi.org) and can be simply i
     pip install pyVME
 
 ## Features
-After installation (e.g. pip install pyVME) you can import this package into your projects via, returns ```
-```import pyVME````
+After installation (e.g. pip install pyVME) you can import this package into your projects via ```import pyVME```.
+
 This gives you access to the three classes that come within this package, returns ```
 1. ```pyVME.fpga(baseaddr)```: Allows you to instantiate one FPGA that is directly connected to the CPU your python program is running on
 2. ```pyVME.server(int server_port)```: Allows you to run a server on a remote machine that is connected with one or more FPGAs. It will instantiate for each FPGA defined by the client a new instance.  
