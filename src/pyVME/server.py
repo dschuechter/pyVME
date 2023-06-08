@@ -150,7 +150,7 @@ class server():
             if self.debug_messages: print("Get wait on fpga done: ", read_wait_on_fpga_done)
             return read_wait_on_fpga_done       
 
-    def input(self):
+    def run(self):
             self.info()
             with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
                 s.bind((self.server_ip, self.server_port))
