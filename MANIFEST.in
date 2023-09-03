@@ -1,1 +1,1 @@
-include src/pyVME/vme_fpga_py.cpython-39-x86_64-linux-gnu.so
+include src/pyVME/vme_fpga_py.cpython-311-x86_64-linux-gnu.so
